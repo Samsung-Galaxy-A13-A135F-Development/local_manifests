@@ -26,7 +26,7 @@
 
   <!-- SLSI -->
   <project name="android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="lineage-a13" />
-  <project name="android_hardware_samsung" path="hardware/samsung" remote="a13devc" />
+  <project name="android_hardware_samsung" path="hardware/samsung" remote="lineage-a13" />
   <project name="android_hardware_samsung_slsi_libbt" path="hardware/samsung_slsi/libbt" remote="lineage-a13" />
   <project name="android_hardware_samsung_slsi_nfc" path="hardware/samsung_slsi/nfc" remote="lineage-a13" />
   <project name="android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" remote="lineage-a13" />
