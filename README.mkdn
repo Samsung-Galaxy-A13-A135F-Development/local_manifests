@@ -1,1 +1,7 @@
+# Device/Vendor/Kernel Manifest
 
+	git clone https://github.com/Samsung-Galaxy-A13-A135F-Development/local_manifests.git -b lineage-23.2 .repo/local_manifests
+
+# Usage
+
+	repo sync
