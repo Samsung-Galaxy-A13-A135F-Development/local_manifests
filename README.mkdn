@@ -4,4 +4,4 @@
 
 # Usage
 
-	repo sync
+	repo sync -c -j16
