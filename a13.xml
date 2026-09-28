@@ -3,11 +3,11 @@
 
   <remote  name="lineage-a13"
            fetch="https://github.com/LineageOS"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
 
   <remote  name="a13dev"
            fetch="https://github.com/Samsung-Galaxy-A13-A135F-Development"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
 
   <!-- Device -->
   <project name="android_device_samsung_a13" path="device/samsung/a13" remote="a13dev" />
